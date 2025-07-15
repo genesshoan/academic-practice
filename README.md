@@ -1,5 +1,16 @@
-# Academic practice
+# 📘 Academic Practice
 
+## 🇺🇸 English
+
+This repository contains code solutions for academic assignments and personal Java practice.  
+Each folder named `practicaXX` refers to a different university practical work.  
+Some have solutions in multiple languages like **C**, **C++**, or **Java**.
+
+The `java-practice/` directory includes exercises developed outside of class for practice and skill improvement.
+
+> ⚠️ All content is for educational purposes only. Assignment statements are **not included** due to academic integrity.
+
+---
 ## 🇪🇸 Español
 
 Este repositorio contiene soluciones en código para tareas académicas y práctica personal en Java.  
