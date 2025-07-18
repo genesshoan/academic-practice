@@ -2,6 +2,8 @@
 
 **Objective**: Reinforce the core Java concepts learned so far, from literals, operations, and control structures to methods, arrays, strings, and basic error handling. Includes varied exercises, an integrative project, and debugging tasks to apply what you've learned before starting Object-Oriented Programming (OOP).
 
+[You can read in spanish here.](https://github.com/genesshoan/academic-practice/blob/main/java-practice/java-fundamentals/README-ES.md)
+
 ---
 
 ## 🧩 Hands-on Content
