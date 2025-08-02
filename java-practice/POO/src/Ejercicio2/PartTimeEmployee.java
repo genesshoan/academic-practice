@@ -6,8 +6,11 @@ public class PartTimeEmployee extends Employee {
 
     public PartTimeEmployee(String name, double hoursWorked, double hourlyRate) {
         super(name);
-        this.hoursWorked = hoursWorked;
         this.hourlyRate = hourlyRate;
+    }
+
+    public PartTimeEmployee(double hoursWorked, double hourlyRate) {
+        this("Unnamed",  hoursWorked, hourlyRate);
     }
 
     @Override

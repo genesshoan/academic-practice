@@ -13,4 +13,11 @@ public class FullTimeEmployee extends Employee {
     public double getSalary() {
         return monthlySalary;
     }
+
+    public void setMonthlySalary(double monthlySalary) throws IllegalArgumentException {
+        if (monthlySalary < 0) {
+            throw new IllegalArgumentException();
+        }
+        this.monthlySalary = monthlySalary;
+    }
 }

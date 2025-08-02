@@ -7,5 +7,13 @@ public class Main {
 
         Employee.printEmployeeInfo(fullTimeEmployee);
         Employee.printEmployeeInfo(partTimeEmployee);
+
+        System.out.println("Employee counter: " + Employee.getCounter());
+
+        System.out.println(fullTimeEmployee.equals(partTimeEmployee));
+        Employee e1 = new FullTimeEmployee("Carlos", 4000.0);
+        System.out.println(fullTimeEmployee.equals(e1));
+        Employee e2 = new FullTimeEmployee("Pepe", 40.40);
+        System.out.println(fullTimeEmployee.equals(e2));
     }
 }
